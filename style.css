@@ -1,0 +1,43 @@
+.intrinsic {
+  padding: 0.4em;
+  display: block;
+  background: #EFEFEF;
+  font-size: 18px;
+}
+
+.code {
+    font-family: "Consolas", "Lucida Console", Courier, monospace;
+    font-size: 1.1em;
+}
+
+.intrinsic-name {
+    color: #009fc1;
+}
+
+.intrinsic-type {
+    float: right;
+    font-size: 0.9em;
+    color: #565b5b;
+}
+
+.hidden {
+  display: none;
+}
+
+.details {
+  font-family: sans-serif;
+  padding: 0.6em;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+header {
+  display: block;
+}
+
+
+#search {
+  font-size: 18px;
+  margin: 0.6em;
+}
